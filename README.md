@@ -8,7 +8,7 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
 
 <div align="center">
   
-# Status do Github 📊
+## Status do Github 📊
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mariih42&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
   <img width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariih42&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
@@ -17,7 +17,7 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
 
 <div align="center">
   
-# Domínio considerável:
+## Domínio considerável:
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
 
 <div align="center">
   
-# Aprendizado em andamento:
+## Aprendizado em andamento:
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -51,7 +51,7 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
 
 <div align="center">
   
-# Vi na Faculdade:
+## Vi na Faculdade:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
