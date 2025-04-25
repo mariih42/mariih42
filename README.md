@@ -1,14 +1,21 @@
+<div align="center">
 ## 💫 Olá, sou Mariana Mello
 Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Directory, aprofundando em Desenvolvimento Web e Kotlin também<br>Pronouns: ela/dela
 
-
+</div>
 <br>
 
+<div align="center">
+  
 # Status do Github 📊
 <div>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mariih42&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false"/>
   <img width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariih42&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
+</div>
 
+<div align="center">
+  
 # Domínio considerável:
 
 <div style="display: inline_block"><br>
@@ -18,8 +25,11 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-</div> <br><br>
+</div>
+</div><br><br>
 
+<div align="center">
+  
 # Aprendizado em andamento:
 
 <div style="display: inline_block"><br>
@@ -34,17 +44,21 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-</div><br>
+</div>
+</div>
+<br>
 
+<div align="center">
+  
 # Vi na Faculdade:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-
-
 </div>
+</div>
+<br>
 
 <div align="center">
     
