@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## 💫 Olá, sou Mariana Mello
 Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Directory, aprofundando em Desenvolvimento Web e Kotlin também<br>Pronouns: ela/dela
 
