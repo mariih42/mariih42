@@ -62,6 +62,13 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
 <br>
 
 <div align="center">
+
+## 🌐 Entre em contato comigo 🍬
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@cadernoebytes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-mello-0123101ba/) 
+
+</div>
+
+<div align="center">
     
   ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
