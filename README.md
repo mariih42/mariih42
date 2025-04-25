@@ -10,6 +10,7 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
   <img width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariih42&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 # Domínio considerável:
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
@@ -43,4 +44,9 @@ Sou estudante da FATEC, ou seja, Fatecana.<br>Estudando atualmente Active Direct
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
 
+</div>
+
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
 </div>
