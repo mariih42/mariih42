@@ -1,7 +1,7 @@
 <div align="center">
   
 ## 💫 Olá, sou Mariana Mello
-Sou formada na FATEC, ou seja, Fatecana. Fiz Informática para Negócios. <br>Estudando atualmente Active Directory, aprofundando em Desenvolvimento Web e Kotlin também.<br>Pronouns: ela/dela.
+Sou formada na FATEC, ou seja, Fatecana. Fiz Informática para Negócios. <br>Estudando atualmente Ciência de Dados, aprofundando em Desenvolvimento Web e Kotlin também.<br>Pronouns: ela/dela.
 
 </div>
 <br>
